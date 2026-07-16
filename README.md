@@ -8,4 +8,4 @@ A data-driven investigation of order patterns, product performance, and reorder 
 
 + The engagement was structured in three stages, mirroring how a real analytics team would typically operate: (1) MySQL was used to connect to the hosted database, validate data integrity, and perform first-pass exploration; (2) Python (via Google Colab) was used to merge the five tables into a single analytical dataset and answer 20 specific business questions with supporting statistical analysis; and (3) Power BI was used to convert the processed output into four interactive executive dashboards for non-technical stakeholders.
 
-⚠️ Workflow Note: After initial EDA, the analysis shifts to Google Colab. Because the local dataset server imposes strict time limits, Colab provides the necessary cloud computing power to handle and process these large data volumes without interruption.
+⚠️ **Workflow Note:** *After initial EDA, the analysis shifts to Google Colab. Because the local dataset server imposes strict time limits, Colab provides the necessary cloud computing power to handle and process these large data volumes without interruption.*

@@ -4,3 +4,5 @@ The extracted data is actively utilized to support:
 * **Exploratory Data Analysis (EDA):** Identifying key trends, distributions, and data quality patterns.
 - **Python Pipelines:** Cleaning, preprocessing, and engineering features for modeling.
 + **Interactive Dashboards:** Building dynamic visual reports to track critical performance metrics.
+
+⚠️ Note: Some larger datasets are stored in .zip format due to GitHub file size limits. Please extract them locally before running your analysis.

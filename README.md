@@ -22,6 +22,3 @@ MySQL Database
 - Solved **20 business analysis questions**.
 - Built **4 interactive Power BI dashboards**.
 - Generated actionable recommendations for inventory, marketing, and customer retention. :contentReference[oaicite:1]{index=1}
-
-README.md
-```

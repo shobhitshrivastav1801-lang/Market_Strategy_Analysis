@@ -124,17 +124,3 @@ Power BI Dashboard
         ▼
 Business Insights & Recommendations
 ```
-
----
-
-# 📂 Repository Structure
-
-```
-SQL/
-Python/
-Power BI/
-Images/
-Report/
-README.md
-Project_Summary.md
-```

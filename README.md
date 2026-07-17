@@ -23,12 +23,5 @@ MySQL Database
 - Built **4 interactive Power BI dashboards**.
 - Generated actionable recommendations for inventory, marketing, and customer retention. :contentReference[oaicite:1]{index=1}
 
-## 📁 Repository Structure
-```
-SQL/
-Python/
-Power BI/
-Images/
-Report/
 README.md
 ```

@@ -30,11 +30,11 @@ The project started with MySQL to understand the database structure and validate
 - **Departments**
 - **Aisles**
 
-📷 **Add Screenshot:** Database Schema / SHOW TABLES output
 
-📷 **Add Screenshot:** SQL Data Validation (Missing Values / Duplicates)
+- SQL Data Validation (Missing Values / Duplicates)
 
-📷 **Add Screenshot:** SQL JOIN Validation
+- **SQL JOIN Validation**
+    ![image alt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/c522f67e35f421652c12c2689f3a0b33dce20fb3/Images/Data%20Validation.png)
 
 ---
 
@@ -66,19 +66,19 @@ Built four interactive dashboards to present insights in a business-friendly for
 
 ### Dashboards
 
-- Executive Business Analysis
+- **Executive Business Analysis**
 
    ![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/a4de810deb5405258a81ce60c41207456041c953/Images/Executive%20Dashboard.png)
 
-- Customer Business Analysis
+- **Customer Business Analysis**
 
    ![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/5937042b90e1b69f8f201da4c52ad4539492013c/Images/Customer%20Dashboard.png)
 
-- Product Performance Analysis
+- **Product Performance Analysis**
 
    ![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/b983bf907a07005f76b3ad050b7648d4a20e1a39/Images/Product%20Dashboard.png)
 
-- Department & Category Analysis
+- **Department & Category Analysis**
 
    ![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/0667a21b7be5fbd2ec4e8cec97120d36a188105a/Images/Department%20and%20Category%20Dashboard.png)
 

@@ -58,11 +58,13 @@ Python was used to process the large dataset, merge all tables, and perform anal
 
 **Data Loading & Merging Code:**
 
-
+   ![image alt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/f92348a115794d249e4a3340496be3170bf6d2c3/Images/Data%20Loading%20and%20Merging.png)
 
 **Sample Python Analysis Output:**
 
----
+![image alt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/f92348a115794d249e4a3340496be3170bf6d2c3/Images/Data%20Loading%20and%20Merging.png)
+![image alt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/f92348a115794d249e4a3340496be3170bf6d2c3/Images/Data%20Loading%20and%20Merging.png)
+
 
 # 📈 Phase 3 – Power BI Dashboard
 

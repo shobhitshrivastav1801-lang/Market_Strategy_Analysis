@@ -31,12 +31,14 @@ The project started with MySQL to understand the database structure and validate
 - **Aisles**
 
 
-- SQL Data Validation (Missing Values / Duplicates)
+- **SQL Data Validation (Missing Values / Duplicates)**
 
-- **SQL JOIN Validation**
     ![image alt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/c522f67e35f421652c12c2689f3a0b33dce20fb3/Images/Data%20Validation.png)
 
----
+- **SQL JOIN Validation**
+
+    ![image alt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/3ae43e8e81fb1cd613eb70fdc7095c9b00e1e170/Images/Data%20Joining.png)
+
 
 # 🐍 Phase 2 – Python (Data Analysis)
 

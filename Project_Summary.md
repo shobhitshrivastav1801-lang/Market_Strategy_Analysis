@@ -68,24 +68,21 @@ Built four interactive dashboards to present insights in a business-friendly for
 
 - Executive Business Analysis
 
-![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/a4de810deb5405258a81ce60c41207456041c953/Images/Executive%20Dashboard.png)
+   ![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/a4de810deb5405258a81ce60c41207456041c953/Images/Executive%20Dashboard.png)
 
 - Customer Business Analysis
 
-![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/167c6811bb039e93f4ba8728d874dfafbf3b4c1e/Images/Department%20and%20Category%20Dashboard.png)
+   ![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/167c6811bb039e93f4ba8728d874dfafbf3b4c1e/Images/Department%20and%20Category%20Dashboard.png)
 
 - Product Performance Analysis
+
+![imagealt]()
+
 - Department & Category Analysis
 
-📷 **Add Screenshot:** Executive Dashboard
+   ![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/0667a21b7be5fbd2ec4e8cec97120d36a188105a/Images/Department%20and%20Category%20Dashboard.png)
 
-📷 **Add Screenshot:** Customer Dashboard
 
-📷 **Add Screenshot:** Product Performance Dashboard
-
-📷 **Add Screenshot:** Department & Category Dashboard
-
----
 
 # 📌 Key Insights
 

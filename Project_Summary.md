@@ -76,7 +76,7 @@ Built four interactive dashboards to present insights in a business-friendly for
 
 - Product Performance Analysis
 
-![imagealt]()
+![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/b983bf907a07005f76b3ad050b7648d4a20e1a39/Images/Product%20Dashboard.png)
 
 - Department & Category Analysis
 

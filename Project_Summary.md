@@ -56,9 +56,11 @@ Python was used to process the large dataset, merge all tables, and perform anal
 - Generated business insights and recommendations.
 - Exported processed datasets for Power BI.
 
-📷 **Add Screenshot:** Data Loading & Merging Code
+**Data Loading & Merging Code:**
 
-📷 **Add Screenshot:** Sample Python Analysis Output
+
+
+**Sample Python Analysis Output:**
 
 ---
 

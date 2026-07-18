@@ -72,7 +72,7 @@ Built four interactive dashboards to present insights in a business-friendly for
 
 - Customer Business Analysis
 
-   ![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/12e391f6e5586e2a00f305fbe5cce780299d2a85/Images/Product%20Dashboard.png)
+   ![imagealt](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/5937042b90e1b69f8f201da4c52ad4539492013c/Images/Customer%20Dashboard.png)
 
 - Product Performance Analysis
 

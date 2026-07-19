@@ -108,7 +108,6 @@ Built four interactive dashboards to present insights in a business-friendly for
   - NumPy
   - Matplotlib
 - Power BI
-- Git
 - GitHub
 
 ---

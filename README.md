@@ -21,4 +21,4 @@ MySQL Database
 - Analyzed **1M+ order records** across **49K+ products** and **63K+ customers**.
 - Solved **Business analysis questions**.
 - Built **Interactive Power BI dashboards**.
-- Generated actionable recommendations for inventory, marketing, and customer retention. :contentReference[oaicite:1]{index=1}
+- Generated actionable recommendations for inventory, marketing, and customer retention. :[ontentReference[oaicite:1]{index=1}](https://github.com/shobhitshrivastav1801-lang/Market_Strategy_Analysis/blob/0e5735747eaeac2dca63d340f6ad16e32d801dc6/Project_Summary.md)

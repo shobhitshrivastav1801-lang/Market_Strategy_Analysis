@@ -19,6 +19,6 @@ MySQL Database
 
 ## 📊 Key Highlights
 - Analyzed **1M+ order records** across **49K+ products** and **63K+ customers**.
-- Solved **20 business analysis questions**.
-- Built **4 interactive Power BI dashboards**.
+- Solved **Business analysis questions**.
+- Built **Interactive Power BI dashboards**.
 - Generated actionable recommendations for inventory, marketing, and customer retention. :contentReference[oaicite:1]{index=1}
